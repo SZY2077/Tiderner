@@ -7,3 +7,11 @@
 工作室专门制作良心软件，欢迎加入。我的工作室官网：
 
 szy2077.github.io
+
+目前软件{
+
+1.easyUse    -简化windows软件，一键操控windows
+
+2.carolPanel -桌面的面板，方便又简洁（开发中）
+
+}
