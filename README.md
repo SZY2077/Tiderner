@@ -12,4 +12,4 @@ SZY2077是tiderner工作室室长，也是tiderner工作室创建者
 
 ###联系方式
 📫邮箱：18116231008@163.com
-💬微信：![可以在微信上购买激活码](wechatpic.png)
+💬微信：https://wwgy.lanzouy.com/iENDe1fyqq1e（打开此链接下载图片）
